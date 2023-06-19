@@ -10,7 +10,7 @@ And I agree: discussion around Lemmy IS confusing. However, Lemmy is the best al
 ## Getting Started
 **Go to "https://lemmy.world".** In the top right corner, click Sign Up. Enter your desired username together with your email and a password. Then click Sign Up. (I recommend using a password that you’re not using anywhere else - which is standard practice on the internet nowadays.)
 
-**If the Sign Up button spins indefinitely after clicking it, the username is already taken.** There is currently an issue where the site does not inform you of this and instead stops responding. You can check if a username is taken by searching for that username's profile page at "https://lemmy.world/u/[the username]" (replace "[the username]" with the username you want).
+**If the Sign Up button spins indefinitely after clicking it, the username is already taken.** There is currently an issue where the site does not inform you of this and instead stops responding. You can check if a username is taken by searching for that username's profile page at "https://lemmy.world/u/[the-username]" (replace "[the-username]" with the username you want).
 
 After creating the account, go to your email's inbox and click the verify link in the mail you received from lemmy.world. There might be a delay of up to 30 minutes before the mail is sent. Sometimes the mail is detected as spam so check your spam folder too.
 
@@ -55,9 +55,9 @@ OK, it sounds good, but how do you as a user navigate the website to manually fi
 
 Let’s say you followed this guide and registered on lemmy.world. That means your account is stored on lemmy.world. A friend asks you to join the "music" community from lemmy.ml. Your first instinct might be to open lemmy.ml - but when you try that, you see that you are not logged in there and cannot log in with your lemmy.world account.
 
-**Instead, you should always stay on lemmy.world.** To join the "music" community from lemmy.ml, you click the search icon in the top right corner on lemmy.world (not the "Communities" link) and search for "!music@lemmy.ml" including the exclamation mark (!) at the start. You should see the community pop up in the list after clicking Search. **In general, the search term is "![community name]@[instance name]".**
+**Instead, you should always stay on lemmy.world.** To join the "music" community from lemmy.ml, you click the search icon in the top right corner on lemmy.world (not the "Communities" link) and search for "!music@lemmy.ml" including the exclamation mark (!) at the start. You should see the community pop up in the list after clicking Search. **In general, the search term is "![community-name]@[instance-name]".**
 
-The process for finding users is similar. If you want to find me ("Amir" on lemmy.ml) you click that same search icon and search for "@Amir@lemmy.ml" including the at sign (@) at the start. Exclamation marks precede communities, at signs precede users. **In general, the search term is "@[user name]@[instance name]".**
+The process for finding users is similar. If you want to find me ("Amir" on lemmy.ml) you click that same search icon and search for "@Amir@lemmy.ml" including the at sign (@) at the start. Exclamation marks precede communities, at signs precede users. **In general, the search term is "@[user-name]@[instance-name]".**
 
 You can also use the full link to the community or user on another instance. For example, pasting "https://lemmy.ml/u/Amir" into the search bar on lemmy.world will bring up my account.
 
