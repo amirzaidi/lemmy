@@ -92,15 +92,15 @@ Guess which decentralised networks are also still around: cellular phone lines, 
 
 # Links
 
-### Official list of Lemmy instances:
+### Official list of instances:
 
 https://join-lemmy.org/instances
 
-### Community-created Lemmy instance recommendation list:
+### Community-created instance recommendations:
 
 https://github.com/maltfield/awesome-lemmy-instances
 
-### Community-created subreddit-to-community migration list:
+### Community-created subreddit migrations:
 
 https://sub.rehab
 
@@ -108,6 +108,6 @@ https://sub.rehab
 
 https://github.com/LemmyNet
 
-### Setting up your own Lemmy instance:
+### Setting up your own instance:
 
 https://join-lemmy.org/docs/en/administration/from_scratch.html
