@@ -100,7 +100,7 @@ https://join-lemmy.org/instances
 
 https://github.com/maltfield/awesome-lemmy-instances
 
-### Community-created subreddit migrations:
+### Community-created subreddit migration list:
 
 https://sub.rehab
 
